@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Property Rental Tracker</string>
+
+    <!-- Navigation Labels -->
+    <string name="title_home">Home</string>
+    <string name="title_properties">Properties</string>
+    <string name="title_tenants">Tenants</string>
+    <string name="title_payments">Payments</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_settings">Settings</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,60m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0"/>
+
+    <!-- Building Icon -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M35,85V45l25,-15 25,15v40H70V65H50v20H35z"/>
+
+    <!-- Door -->
+    <path
+        android:fillColor="#1E40AF"
+        android:pathData="M55,85V72h10v13H55z"/>
+
+    <!-- Windows -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M42,52h6v6h-6zM42,62h6v6h-6zM72,52h6v6h-6zM72,62h6v6h-6z"/>
+
+</vector>
